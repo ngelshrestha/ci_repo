@@ -43,5 +43,7 @@ and open the template in the editor.
         <a href = "<?php echo base_url(); ?>index.php/booksController/maps">Google Maps</a>
         <br><br>
         <a href = "<?php echo base_url(); ?>index.php/upload">Upload Files</a>
+        <br><br>
+        <a href = "<?php echo base_url(); ?>index.php/test">New Test Controller</a>
    </body>
 </html>
